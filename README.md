@@ -1,6 +1,6 @@
-کانال یوتوب : [https://www.youtube.com/@X4GHUB](https://www.youtube.com/@X4GHUB)
+کانال یوتوب : [https://www.youtube.com/@X7MHUB](https://www.youtube.com/@X7MHUB)
 
-# 🚀 X4G
+# 🚀 X7M
 
 دروازه (Gateway) سریع و مدرن برای تونل‌زنی VLESS روی WebSocket و XHTTP + HTTP Proxy، با داشبورد مدیریتی زیبا، **ربات مدیریت تلگرام**، صفحات ساب حرفه‌ای و قابلیت ساخت لینک‌های اختصاصی با محدودیت ترافیک، سرعت و آی‌پی.
 
@@ -88,7 +88,7 @@
 
 | متغیر | توضیح | پیش‌فرض |
 |---|---|---|
-| `ADMIN_PASSWORD` | رمز عبور ورود به داشبورد وب | `X4GKING` |
+| `ADMIN_PASSWORD` | رمز عبور ورود به داشبورد وب | `X7MKING` |
 | `SECRET_KEY` | کلید امضای سشن/پسورد؛ اگر تنظیم نشود، خودکار ساخته و روی دیسک ذخیره می‌شود | — |
 | `DATA_DIR` | مسیر ذخیره‌سازی وضعیت (نیازمند Volume دائمی) | `/data` |
 | `TELEGRAM_BOT_TOKEN` | توکن ربات تلگرام (اختیاری) | — |
@@ -101,4 +101,4 @@
 
 ---
 
-X4G · پشتیبانی: [@Farajian2004f](https://t.me/Farajian2004f)
+X7M · پشتیبانی: [@MeAiMohmdbot](https://t.me/MeAiMohmdbot)
