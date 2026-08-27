@@ -101,4 +101,4 @@
 
 ---
 
-X7M · پشتیبانی: [@MeAiMohmdbot](https://t.me/MeAiMohmdbot)
+X7M · پشتیبانی: [@ferdolans7](https://t.me/ferdolans7)
